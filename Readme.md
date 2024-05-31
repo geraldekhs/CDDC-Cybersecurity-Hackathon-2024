@@ -1,0 +1,1 @@
+# Any cells with netcat commands will not work as the servers have been taken down after the hackathon.
